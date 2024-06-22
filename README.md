@@ -1,5 +1,5 @@
-#Jakub Misiarz / @Kubusi019
-##Stanowisko: Junior
+Jakub Misiarz / @Kubusi019
+- Stanowisko: Junior
 - 👀 Interesuję się:
   -  programowaniem:
       - JavaScript (HTML + CSS)
