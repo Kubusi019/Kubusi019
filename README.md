@@ -2,11 +2,15 @@
 ## Stanowisko: Junior
 - 👀 Interesuję się:
   -  programowaniem:
-      - JavaScript (HTML + CSS)
-      - Python
+      - Języki programowania:
+        - JavaScript (HTML + CSS)
+        - Python
   - Próbuję stworzyć grę na silniku Godot (Żadnej jeszcze nie skończyłem)
-  -  trochę modeluję w 3D w Blenderze.
-- 🌱 W tej chwili uczę się obsługi Linux Server i GitHub'a
+  - Powierzchowna wiedza o MySQL i bazach danych
+  - Trochę modeluję w 3D w Blenderze
+- 🌱 W tej chwili uczę się:
+  - Obsługi Linux Server
+  - Obsługa GitHub'a
 - 📫 Kontakt:
     - Email: misiarzjakub06@gmail.com
 <!-- - ⚡ Fun fact: ... 
