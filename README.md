@@ -2,8 +2,8 @@ Jakub Misiarz / @Kubusi019
 Stanowisko: Junior
 - 👀 Interesuję się:
   -  programowaniem:
-    - JavaScript (HTML + CSS)
-    - Python
+      - JavaScript (HTML + CSS)
+      - Python
   - Próbuję stworzyć grę na silniku Godot (Żadnej jeszcze nie skończyłem)
   -  trochę modeluję w 3D w Blenderze.
 - 🌱 W tej chwili uczę się obsługi Linux Server i GitHub'a
