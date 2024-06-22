@@ -6,7 +6,7 @@ Stanowisko: Junior
     - Python
   - Próbuję stworzyć grę na silniku Godot (Żadnej jeszcze nie skończyłem)
   -  trochę modeluję w 3D w Blenderze.
-- 🌱 W tej chwili uczę się obsługi Linux Server
+- 🌱 W tej chwili uczę się obsługi Linux Server i GitHub'a
 - 📫 Kontakt:
     - Email: misiarzjakub06@gmail.com
 <!-- - ⚡ Fun fact: ... 
