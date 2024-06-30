@@ -9,8 +9,8 @@
   - Powierzchowna wiedza o MySQL i bazach danych
   - Trochę modeluję w 3D w Blenderze
 - 🌱 W tej chwili uczę się:
+  - C++
   - Obsługi Linux Server
-  - Obsługa GitHub'a
 - 📫 Kontakt:
     - Email: misiarzjakub06@gmail.com
 <!-- - ⚡ Fun fact: ... 
