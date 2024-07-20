@@ -6,10 +6,11 @@
         - JavaScript
         - HTML + CSS
         - Python
+        - C++
   - Próbuję stworzyć grę na silniku Godot (Żadnej jeszcze nie skończyłem)
   - Powierzchowna wiedza o MySQL i bazach danych
   - Trochę modeluję w 3D w Blenderze
-- 🌱 W tej chwili uczę się: C++
+- 🌱 W tej chwili uczę się: MySQL i bazy danych
 - 📫 Kontakt:
     - Email: misiarzjakub06@gmail.com
 <!-- - ⚡ Fun fact: ... 
