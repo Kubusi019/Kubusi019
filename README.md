@@ -1,5 +1,5 @@
 # Jakub Misiarz / @Kubusi019
-## Stanowisko: (Bezrobotny) Junior
+## Stanowisko: Junior
 - 👀 Interesuję się:
   -  programowaniem:
       - Języki programowania:
