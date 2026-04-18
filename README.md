@@ -7,8 +7,8 @@
         - Python
         - C++
         - MySQL
+        - PHP
   - Próbuję stworzyć grę na silniku Godot (Żadnej jeszcze nie skończyłem)
-  - Powierzchowna wiedza o PHP
   - Trochę modelowałem w 3D w Blenderze
 - 🌱 W tej chwili uczę się:
   - JavaScript - Web Validation API
